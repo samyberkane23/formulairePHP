@@ -19,6 +19,9 @@ Prenom: Samy
 
 base de donnees : 
 
-nom de la base : users
-nom de la table : id 
+nom de la base : users ; 
+
+nom de la table : id ;  
+
 id | username | name | password 
+
