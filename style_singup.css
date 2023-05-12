@@ -1,0 +1,58 @@
+/* Police de caractères */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Formulaire */
+  form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Titre */
+  h2 {
+    margin-top: 0;
+  }
+  
+  /* Champ de saisie */
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+  
+  /* Bouton */
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Lien */
+  a {
+    color: blue;
+  }
+  
+  /* Message d'erreur */
+  .error {
+    color: red;
+  }
+  
+  /* Message de réussite */
+  .success {
+    color: green;
+  }
+  
